@@ -91,7 +91,6 @@ Deploy dashboard as web application
 Integrate real-time streaming AQI data
 Add more advanced feature engineering
 Improve visualization interactivity
-Author
 
 Saumik Laddha
 
